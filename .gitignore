@@ -1,0 +1,41 @@
+# ==============================
+# Node Modules (Backend + Frontend)
+# ==============================
+node_modules/
+
+# ==============================
+# Environment Variables
+# ==============================
+.env
+.env.*
+*.local
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==============================
+# Build Folders
+# ==============================
+dist/
+build/
+dist-ssr/
+
+# ==============================
+# Editor Folders
+# ==============================
+.vscode/
+!.vscode/extensions.json
+.idea/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
